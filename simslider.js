@@ -12,8 +12,9 @@
 
 		// set default options
 		var settings = $.extend({
-			width	: 
-
+			width	: 500,
+			type	: 'horizontal',
+			nav		: true
 		}, options);
 	};
 
